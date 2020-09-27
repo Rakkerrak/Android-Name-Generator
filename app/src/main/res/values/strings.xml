@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Name Generator</string>
+    <string name="generate">Select Gender</string>
+    <string name="maleGender">Male </string>
+    <string name="femaleGender">Female </string>
+    <string name="generatedName"> </string>
+    <string name="experimental">Experimental</string>
+    <string name="genNormName">Generate</string>
+    <string name="generatedExpName"> </string>
+    <string name="genExpName">Generate</string>
+</resources>
